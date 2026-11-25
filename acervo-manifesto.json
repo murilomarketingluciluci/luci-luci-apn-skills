@@ -1,0 +1,197 @@
+[
+  {
+    "arquivo": "agua-pagina-1.psd",
+    "bytes": 17682996,
+    "sha256": "c87a2f51ac29801e8b39fe801ab86d63c204c6caafe17dea9e48f742e94f23cc"
+  },
+  {
+    "arquivo": "agua-pagina-2.psd",
+    "bytes": 11411992,
+    "sha256": "6fd75d14f099ce34c695ba36f971234bd64e2c22e7ac5192127f8c6c02365e82"
+  },
+  {
+    "arquivo": "agua-pagina-3.psd",
+    "bytes": 18982988,
+    "sha256": "4662916d69bbbdfa90bc6c376fcfdbf7a5ee894f6ae67cfa9de65b03094f491e"
+  },
+  {
+    "arquivo": "alcaline-mestre.psd",
+    "bytes": 130170942,
+    "sha256": "a33d3b9b08d434f1a14203f9a74e961043fbe44b2584828a00035f53d1d1007f"
+  },
+  {
+    "arquivo": "alcaline-prova-anterior.pdf",
+    "bytes": 5885254,
+    "sha256": "32ef74b296a03bb1568b20bec75c39dcdbc874f81df277623da68787b5314230"
+  },
+  {
+    "arquivo": "carrossel-alcaline.psd",
+    "bytes": 228127858,
+    "sha256": "6494fcd56356f829c82f17092b5e196c87dc6df57b066b979450978b37c44531"
+  },
+  {
+    "arquivo": "dermo-skin.pdf",
+    "bytes": 23612523,
+    "sha256": "2b4fdb0418d6542bafc9f1f04ce940350ea594d0e7ec8915c1d4b1a9d9448756"
+  },
+  {
+    "arquivo": "dermo-skin.psb",
+    "bytes": 470424856,
+    "sha256": "82462e2b28e20c1b3dc4527d81d1706cbf0dd04de228a28e63980773c99c3f69"
+  },
+  {
+    "arquivo": "estudo-vidro.psd",
+    "bytes": 24759418,
+    "sha256": "e6a3de1b710fbd14794e9b6201381ad19abc153f75b8cdc728fd5f75cc586a60"
+  },
+  {
+    "arquivo": "foto-oficial-garrafa-01.jpg",
+    "bytes": 750342,
+    "sha256": "91a70bed5732164a22c22df6a21f498c70bb0a5acbdcef9a2a30b8578924cff5"
+  },
+  {
+    "arquivo": "foto-oficial-garrafa-02.jpg",
+    "bytes": 706731,
+    "sha256": "ef3eb927cca370e15dccf772ddc8f2c5bf8c7600180caef8cd4287c42e62e921"
+  },
+  {
+    "arquivo": "fresh-mint.pdf",
+    "bytes": 23025002,
+    "sha256": "2618159465ed26e4344653e0a9838c6a21f3f630a3cfa261105dc44dbdd6a5c9"
+  },
+  {
+    "arquivo": "fresh-mint.psd",
+    "bytes": 181560428,
+    "sha256": "773a7a779d439b84a351a0f93d2a8f0c90a665252740231cf310b0fd808ecf9c"
+  },
+  {
+    "arquivo": "id-bastao-submerso.jpg",
+    "bytes": 190421,
+    "sha256": "a2fc373840a60ea9daa732027e9f6602fb2fab110e65f9d959b7c4f832f54005"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao-01.psd",
+    "bytes": 292472020,
+    "sha256": "d526f4d5dbe6b4296bea537e355cd3876cbae8166b51e53ee47073a322804f3c"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao-02.psd",
+    "bytes": 172451234,
+    "sha256": "5ca41e10534d462fc0e5aef3bf9c44cf82a6786939eed65701e5b55db0f91884"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao-03.psd",
+    "bytes": 473058776,
+    "sha256": "4bd2e4e9bb9cbf03e5658a103c1ff70ec31d61a93e762382e5dfa9a96ae586b6"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao-04.psd",
+    "bytes": 260677453,
+    "sha256": "4880b75ab13278d72ab35983a2d06ae4cca1a81137520bf44f354fe3a405bac2"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao-05.psd",
+    "bytes": 485973879,
+    "sha256": "f52985349a9e55347fb4e9910e111d094536d19d14c6528839f94db331d1a14c"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao-06.psd",
+    "bytes": 370507315,
+    "sha256": "6cd6f9872fe7e51be28ab4c100e4041d5d5cfa63ac4dc2c91b0b1b49aec36234"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao-07.psd",
+    "bytes": 541346949,
+    "sha256": "b8ed18c0e243b06249d8ed4cf7f19f7b2d7fa364e651d71fcc5abcf99f671897"
+  },
+  {
+    "arquivo": "osteo-dna-outra-edicao.pdf",
+    "bytes": 28098251,
+    "sha256": "f63988b0d6a11444cf27a957ad4449221653c0f4c187bb787ea95f14247981b0"
+  },
+  {
+    "arquivo": "osteo-dna.pdf",
+    "bytes": 19581126,
+    "sha256": "7431e263fcc7a704e03025aa80493150bf6baa3c69e9c8592a6c1dd9525886b6"
+  },
+  {
+    "arquivo": "reverse-drink-tangerina.pdf",
+    "bytes": 17060044,
+    "sha256": "cdd5709997ce06f2b880082703d094be479d3782b57cfd52b6044eda61d12187"
+  },
+  {
+    "arquivo": "reverse-drink-tangerina.psd",
+    "bytes": 537212900,
+    "sha256": "b8a3e0bbbc5c0c3f4c67f28b53d10391078c81e828fabb55a67f4a0b19b1a170"
+  },
+  {
+    "arquivo": "revita-2025-01.psd",
+    "bytes": 113428446,
+    "sha256": "02b8ef552843a995e0b1c41b9b80635a1e3e144c6a1e5b442e03c62f9180d35a"
+  },
+  {
+    "arquivo": "revita-2025-02.psd",
+    "bytes": 247784909,
+    "sha256": "82e5e2ca9b44c87e29055d4327682b0511b086cf9dd67c3bafa2d0759d4d7c3d"
+  },
+  {
+    "arquivo": "revita-2025-03.psd",
+    "bytes": 357465214,
+    "sha256": "6ee7e1ae8dce97c261bf738b6cd6da4c126efa3127757dd31ed843b4dd12ecc5"
+  },
+  {
+    "arquivo": "revita-2025-04.psd",
+    "bytes": 262594973,
+    "sha256": "7066a4d700acca20151f5fc981b0014a0ad52755e1bfcce3d0a42abf56c8af56"
+  },
+  {
+    "arquivo": "revita-2025-05.psd",
+    "bytes": 285338631,
+    "sha256": "618439de31608e8cbae38879ef73fbe7e413e07c52aab1ab747a644c69f81f1d"
+  },
+  {
+    "arquivo": "revita-2025-06.psd",
+    "bytes": 276792968,
+    "sha256": "beeaa5e13f1711c14395fd8a04af34da7ef88b0adb26e68e7c1a353493d45c15"
+  },
+  {
+    "arquivo": "revita-2025-07.psd",
+    "bytes": 367059909,
+    "sha256": "a4d6f4aeb495aa6931dfdf6872360a6502528be3cf71bb1ac843287842a87b66"
+  },
+  {
+    "arquivo": "revita-2025-08.psd",
+    "bytes": 4071632,
+    "sha256": "a431fd448b1d27fa29046015001ba36e4062c8386fd00f635df256eceae06cac"
+  },
+  {
+    "arquivo": "revita-2025.pdf",
+    "bytes": 46912885,
+    "sha256": "8e3ad65addce0e334d63da10811b9c5c872f2775fc8e2206d228384ebce610d0"
+  },
+  {
+    "arquivo": "revita.pdf",
+    "bytes": 22979759,
+    "sha256": "f9d6b3735c01541017500a1fbce26c022732da2a4015ca8968b1164daa19585d"
+  },
+  {
+    "arquivo": "vitae-alcaline-portatil-logo.png",
+    "bytes": 26279,
+    "sha256": "0852ceade0f77b8af07d64b8cb1e4b97b1be5e6952ec5a8536f29de1dda2d77c"
+  },
+  {
+    "arquivo": "water-hidrogen.pdf",
+    "bytes": 17460268,
+    "sha256": "6510a0e9bd7bb6ed990bc9eac6569391914540814a982898a6adc458a3bc71ea"
+  },
+  {
+    "arquivo": "water-hidrogen.psd",
+    "bytes": 215068081,
+    "sha256": "4bdc74f01326a145e625af0934d00e47bba05edf0fb702d1354d12349fce42c5"
+  },
+  {
+    "arquivo": "water-imantador.pdf",
+    "bytes": 9004096,
+    "sha256": "adbb8c536f43b55952e6325cb50f61997f14149bc7d6ee77e3a2a22e4587bf6b"
+  }
+]
