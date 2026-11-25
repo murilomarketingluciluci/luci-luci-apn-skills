@@ -8,7 +8,8 @@ $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
 $release = 'https://github.com/murilomarketingluciluci/luci-luci-apn-skills/releases/download/v1.0.0'
 $manifesto = Join-Path (Split-Path -Parent $PSScriptRoot) 'acervo-manifesto.json'
-$lista = @(Get-Content -Raw -LiteralPath $manifesto -Encoding UTF8 | ConvertFrom-Json)
+$dados = Get-Content -Raw -LiteralPath $manifesto -Encoding UTF8 | ConvertFrom-Json
+$lista = @($dados)
 # Windows PowerShell 5.1 pode usar um protocolo TLS antigo por padrao.
 [Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12
 
